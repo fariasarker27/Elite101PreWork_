@@ -1,6 +1,17 @@
-# Elite101PreWork_
-This is my Pre-Work chatbot for Wave 1 Elite 101.
-This chatbot is a retail chatbot that answers questions about store hours, available prices/products, discount validation, and feeback submissions.
+# Introduction
 
-# Usage 
-To run the program, use main.py
+
+This is a repository created by *Faria*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
